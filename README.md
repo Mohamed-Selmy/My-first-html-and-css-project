@@ -2,4 +2,4 @@
 My first project using only html and css.
 
 
-## First projuct
+## First project
